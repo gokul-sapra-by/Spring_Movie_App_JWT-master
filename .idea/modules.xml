@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring_Movie_App_JWT-master.iml" filepath="$PROJECT_DIR$/.idea/Spring_Movie_App_JWT-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_Movie_App_JWT-master/movieJwtSpring.iml" filepath="$PROJECT_DIR$/Spring_Movie_App_JWT-master/movieJwtSpring.iml" />
+    </modules>
+  </component>
+</project>
